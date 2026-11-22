@@ -46,7 +46,7 @@ git branch -M main
 git remote add origin https://github.com/kauan599/gerenciador-logistico.git
 git push -u origin main
 ```
-Substitua `SEU-USUARIO` pelo seu usuário do GitHub. Faça novos commits a cada alteração relevante.
+Faça novos commits a cada alteração relevante para manter o histórico de desenvolvimento do projeto.
 
 ## Observação acadêmica
 O sistema é uma implementação didática. Antes da apresentação, teste o cadastro, edição, exclusão, criação de frete com mais de um produto e exportação CSV no ambiente XAMPP.
