@@ -43,7 +43,7 @@ git init
 git add .
 git commit -m "Versão inicial do gerenciador logístico"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/gerenciador-logistico.git
+git remote add origin https://github.com/kauan599/gerenciador-logistico.git
 git push -u origin main
 ```
 Substitua `SEU-USUARIO` pelo seu usuário do GitHub. Faça novos commits a cada alteração relevante.
