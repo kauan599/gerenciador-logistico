@@ -22,7 +22,7 @@ Projeto acadêmico desenvolvido para a disciplina **Fundamentos de Programação
 3. Acesse `http://localhost/phpmyadmin`.
 4. Importe o arquivo `database.sql` para criar o banco e as tabelas.
 5. Confira as credenciais em `includes/db.php` (padrão XAMPP: usuário `root` e senha vazia).
-6. Acesse `http://localhost/gerenciador_logistico/`.
+6. Acesse `http://localhost/gerenciador_logistico-main/`.
 7. Cadastre primeiro produtos, dois ou mais endereços e um transportador. Depois gere um frete.
 
 ## Estrutura
