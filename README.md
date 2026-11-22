@@ -17,7 +17,7 @@ Projeto acadêmico desenvolvido para a disciplina **Fundamentos de Programação
 - Consulta de fretes e relatório filtrado por dia, com exportação CSV.
 
 ## Como executar no XAMPP
-1. Copie a pasta `gerenciador_logistico` para `C:\xampp\htdocs\`.
+1. Extraia o ZIP do GitHub e copie a pasta `gerenciador-logistico-main` para `C:\xampp\htdocs\`.
 2. Abra o painel do XAMPP e inicie **Apache** e **MySQL**.
 3. Acesse `http://localhost/phpmyadmin`.
 4. Importe o arquivo `database.sql` para criar o banco e as tabelas.
